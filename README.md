@@ -36,6 +36,6 @@ Description: Imported, analyzed, and visualized Human Resources data using Power
 
 For any questions or further information, please feel free to contact me:
 
-[LinkedIn](http://www.linkedin.com/in/krystalbrantley)
+[My LinkedIn Profile](http://www.linkedin.com/in/krystalbrantley)
 
 Thank you for visiting my Data Analyst Portfolio Repository!
