@@ -96,15 +96,16 @@ The cleaned data is stored in the `layoffs_staging2` table, which now contains s
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/data-analyst-portfolio.git
+    git clone https://github.com/krystalbrantley/data-analyst-portfolio.git
     cd data-analyst-portfolio/world-layoffs-data-analysis
     ```
 
 2. **Set up the database and import data:**
-    Follow the SQL scripts provided in this document to create the necessary tables and perform data cleaning.
+    - Import the `layoffs.csv` file into your MySQL database.
+    - Run the SQL script `world_layoffs_data_cleaning.sql` to create the necessary tables and perform data cleaning
 
 3. **Run the analysis:**
-    Execute the SQL queries to generate insights from the cleaned data.
+    Execute the SQL script `world_layoffs_eda.sql` to generate insights from the cleaned data.
 
 ## Conclusion
 
@@ -114,8 +115,7 @@ By thoroughly cleaning and standardizing the World Layoffs dataset, this project
 
 For any questions or further information, please feel free to contact me:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/krystalbrantley)
+
 
 Thank you for reviewing this project!
