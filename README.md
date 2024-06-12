@@ -9,7 +9,7 @@ Welcome to my Data Analyst Portfolio Repository! This repository showcases vario
 ### World Layoffs Data Analysis
 Description: Conducted data cleaning and exploratory data analysis on a comprehensive World Layoffs dataset using MySQL, deriving key insights through advanced SQL queries.
 - Tools: MySQL
-- Files: Link to project folder
+- Files: [World Layoffs Data Cleaning](https://github.com/krystalbrantley/data-analyst-portfolio/blob/main/world_layoffs_data_cleaning.md)
 
 ### Citi Bike and NOAA Weather Data Integration
 Description: Explored, cleaned, and merged Citi Bike ridership data with NOAA weather data to create a PostgreSQL database, developing analytics-ready views to facilitate comprehensive data analysis.
