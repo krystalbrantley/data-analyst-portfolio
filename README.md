@@ -19,7 +19,7 @@ Description: Explored, cleaned, and merged Citi Bike ridership data with NOAA we
 ### Customer Churn Analysis
 Description: Analyzed customer churn to identify reasons for customer attrition and developed a comprehensive report in Power BI to present the findings.
 - Tools: Power BI
-- Files: Link to project folder
+- Files: [Customer Churn Analysis](https://github.com/krystalbrantley/customer_churn_analysis)
 
 ### Human Resources Data Visualization
 Description: Imported, analyzed, and visualized Human Resources data using Power BI to uncover key insights and trends.
