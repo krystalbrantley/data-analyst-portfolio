@@ -24,7 +24,7 @@ Description: Analyzed customer churn to identify reasons for customer attrition 
 ### Human Resources Data Visualization
 Description: Imported, analyzed, and visualized Human Resources data using Power BI to uncover key insights and trends.
 - Tools: Power BI
-- Files: Link to project folder
+- Files:  [HR Analytics Report](https://github.com/krystalbrantley/hr_analytics_report)
 
 ## Technologies Used
 
